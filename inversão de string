@@ -1,0 +1,2 @@
+string=("targetsistemas")
+print(string[::-1])
